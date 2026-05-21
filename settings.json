@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "chrlskmdo.aternos.me",
+    "ip": "penguin.aternos.host:41099",
     "port": 41099,
     "version": "",
     "try-creative": false
